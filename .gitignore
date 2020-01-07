@@ -1,0 +1,38 @@
+# Compiled class file
+*.class
+
+# Lock file
+*.lock
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.classpath
+.settings/
+.metadata/
+.mvn/
+cobranca/.project
+cobranca/HELP.md
+cobranca/mvnw
+cobranca/mvnw.cmd
+cobranca/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+cobranca/target/m2e-wtp/web-resources/META-INF/maven/com.algaworks/cobranca/pom.properties
+ProjetoCRUD/RemoteSystemsTempFiles/.project
+ProjetoCRUD/target/maven-archiver/pom.properties
+ProjetoCRUD/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ProjetoCRUD/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ProjetoCRUD/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
